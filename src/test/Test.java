@@ -18,7 +18,8 @@ public class Test {
 
         //1.用户登录//1.用户登录//1.用户登录//1.用户登录//1.用户登录//1.用户登录
         System.out.println(1111);
-        System.out.println(1111);
+
+        System.out.println("hot-fix test");
         //1.用户登录
         /*Scanner sc = new Scanner(System.in);
         System.out.println("请输入用户名：");
